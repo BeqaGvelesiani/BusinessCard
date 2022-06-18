@@ -1,0 +1,43 @@
+body {
+    margin: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.avatar {
+    width: 150px;
+    display: block;
+    
+}
+
+.logo {
+    height: 25px;
+    margin-top: 5px;
+}
+.Cname {
+    height: 25px;
+    margin-top: 5px;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #ddebf8;
+    color: #264653;
+    border-bottom: 10px solid #2a9d8f;
+}
+
+.border-blue {
+    border: 1px dotted blue;
+}
+
+a {
+    color: #0072b1;
+    text-size-adjust: 20px;
+    border: 1px solid  #0072b1;
+    border-radius: 5px;
+    padding: 3px;
+}
