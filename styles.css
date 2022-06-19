@@ -1,25 +1,26 @@
 body {
-    margin: 20px;
+    margin: 30px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .avatar {
-    width: 150px;
+    width: 300px;
     display: block;
-    
+    border-radius: 10px;
 }
 
 .logo {
-    height: 25px;
-    margin-top: 5px;
+    height: 50px;
+    margin-top: 10px;
 }
 .Cname {
-    height: 25px;
-    margin-top: 5px;
+    height: 50px;
+    margin-top: 10px;
 }
 
 .card {
-    width: 400px;
+    font-size: 30px;
+    width: 800px;
     margin: 0 auto;
     padding: 20px;
     display: flex;
@@ -27,7 +28,8 @@ body {
     text-align: center;
     background: #ddebf8;
     color: #264653;
-    border-bottom: 10px solid #2a9d8f;
+    border-bottom: 20px solid #2a9d8f;
+    border-radius: 20px;
 }
 
 .border-blue {
@@ -36,7 +38,7 @@ body {
 
 a {
     color: #0072b1;
-    text-size-adjust: 20px;
+    font-size: 40px;
     border: 1px solid  #0072b1;
     border-radius: 5px;
     padding: 3px;
