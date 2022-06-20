@@ -28,7 +28,7 @@ body {
     display: flex;
     justify-content: space-around;
     text-align: center;
-    background: #ddebf8;
+    background:  whitesmoke;
     color: #264653;
     border-bottom: 20px solid #06886c;
     border-radius: 20px;
@@ -88,11 +88,10 @@ button {
 }
 
 #name {
-    text-shadow: 2px 2px #6f676843;
+    text-shadow: 0px 0px 30px  #264653;
 }
 
 #anagiWebsite {
-    text-shadow:  2px 2px #6f676843;
     color:  #264653;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bolder;
