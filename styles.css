@@ -82,3 +82,18 @@ button {
     font-size: smaller;
     font-weight: lighter;
 }
+
+.email {
+    text-decoration: underline;
+}
+
+#name {
+    text-shadow: 2px 2px #6f676843;
+}
+
+#anagiWebsite {
+    text-shadow:  2px 2px #6f676843;
+    color:  #264653;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
