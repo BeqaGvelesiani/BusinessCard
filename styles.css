@@ -83,16 +83,25 @@ button {
     font-weight: lighter;
 }
 
+
 .email {
     text-decoration: underline;
 }
 
 #name {
-     text-shadow: 0px 0px 20px rgb(156, 155, 155);
+    text-shadow: 0px 0px 20px rgb(156, 155, 155);
 }
 
 #anagiWebsite {
     color:  #264653;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bolder;
+}
+
+#name:hover {
+    text-shadow: 0px 0px 20px rgb(246, 10, 10);
+}
+
+#email:hover {
+    text-shadow: 0px 0px 20px rgb(246, 10, 10);
 }
