@@ -1,0 +1,35 @@
+/* -----dark------ */
+
+:root {
+  --color1: #23252a;
+  --color2: #23252a;
+  --color3: #23252a;
+  --color4: #1b1b1b;
+  --text-color: whitesmoke;
+  --tougle-color: #d6d6be;
+  --icon-color: whitesmoke;
+  --outline-color: #6a6764;
+  --active-color: #2c2e35;
+  --green: #06886c;
+  --Shape1: 50% 50% 50% 50% / 50% 50% 50% 50%;
+  --Shape2: 49% 51% 60% 40% / 40% 58% 42% 60%;
+  --Shape3: 60% 40% 74% 26% / 35% 37% 63% 65%;
+  --Shape4: 26% 74% 25% 75% / 42% 41% 59% 58%;
+  --Shape5: 38% 62% 38% 62% / 52% 35% 65% 48%;
+  --Shape6: 23% 77% 28% 72% / 27% 51% 49% 73%;
+  --Shape7: 52% 48% 28% 72% / 68% 59% 41% 32%;
+  --Shape8: 60% 40% 74% 26% / 68% 21% 79% 32%;
+}
+
+/* -----Light------ */
+
+/* :root {
+  --color1: #bcead5;
+  --color2: #9ed5c5;
+  --color3: #8ec3b0;
+  --color4: #def5e5;
+  --text-color: #282846;
+  --tougle-color: #fff2cc;
+} */
+
+/* ----------- */

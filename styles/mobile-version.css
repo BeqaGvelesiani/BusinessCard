@@ -1,0 +1,56 @@
+@media only screen and (max-width: 600px) {
+  .photo-and-name {
+    display: flex;
+    flex-direction: column;
+    place-items: center;
+    padding: 2rem;
+  }
+
+  .main-content .photo-and-name img {
+    --side-size: 40vw;
+    margin: 0 auto;
+    height: var(--side-size);
+    width: var(--side-size);
+  }
+
+  .photo-and-name h1 {
+    /* background-color: #1e657b; */
+    padding: 0;
+  }
+
+  .section-3 div .h3 {
+    display: flex;
+    flex-direction: column;
+    place-items: center;
+    justify-content: space-around;
+    font-size: 0.5rem;
+  }
+
+  .info-text {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  .info-text img {
+    height: 2.5rem;
+    width: auto;
+    border-radius: 0;
+    margin: 0;
+    margin-right: 12px;
+    border-radius: 10%;
+    padding: 4px;
+  }
+
+  .social-info .in-content {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    height: fit-content;
+    gap: 1.5rem;
+    place-items: center;
+  }
+
+  .center {
+    width: 50%;
+    font-size: 1.2rem;
+  }
+}
