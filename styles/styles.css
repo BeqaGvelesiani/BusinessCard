@@ -2,14 +2,9 @@ body {
   color: var(--text-color);
   height: 100vh;
   /* animation: 1000ms Color infinite; */
-  background-color: rgba(48, 46, 45, 0.445);
-  background-image: repeating-linear-gradient(
-    45deg,
-    transparent,
-    transparent 35px,
-    rgba(255, 255, 255, 0.5) 35px,
-    rgba(255, 255, 255, 0.5) 70px
-  );
+  background-color: rgba(whitesmoke);
+
+  
 }
 
 @keyframes Color {
@@ -326,4 +321,9 @@ body {
   width: 20%;
   height: 4rem;
   font-size: 1.5rem;
+}
+
+.main-content {
+ box-shadow: 20px 20px 60px #bebebe,
+               -20px -20px 60px #ffffff;
 }
